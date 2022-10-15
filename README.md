@@ -72,3 +72,8 @@
 
 Все задания обязательны к выполнению для получения зачёта, кроме дополнительных задач, помеченных звёздочкой. 
 
+
+# Решение:
+[Задание 1](https://github.com/artmaxst/Homework/blob/main/2.4(1).pdf)
+
+[Задание 2](https://github.com/artmaxst/Homework/blob/main/2.4(2).pdf)
